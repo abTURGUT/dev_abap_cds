@@ -1,2 +1,2 @@
-# dev_abap_cds
-Developer ABAP CDS Project
+# dev_cds
+Developer CDS Project
